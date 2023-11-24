@@ -42,7 +42,11 @@ public class Player {
     }
 
     public void decreaseLife(int amount) {
-        this.life -= amount;
+        if(this.life - amount >= 0) {
+            this.life -= amount;
+        }else{
+            this.life = 0;
+        }
     }
 
     public void increasePower(int amount){

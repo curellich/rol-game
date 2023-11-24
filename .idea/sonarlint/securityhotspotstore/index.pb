@@ -31,3 +31,5 @@ c
 3src/main/java/edu/undef/fie/domain/DefenseItem.java,8/d/8d34345d778163d8a5aee840a098bce0f8a94739
 b
 2src/main/java/edu/undef/fie/domain/WeaponItem.java,6/8/684eaf229d1b8dfe232e62d21e04d97347a92613
+9
+	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d

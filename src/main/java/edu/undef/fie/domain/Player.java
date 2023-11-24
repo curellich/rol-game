@@ -57,6 +57,10 @@ public class Player {
         return power;
     }
 
+    public int getLife() {
+        return life;
+    }
+
     public void attack(Player enemy){
         enemy.decreaseLife(getPower());
     }

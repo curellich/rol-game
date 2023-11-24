@@ -1,5 +1,6 @@
 
-d
-java:S1192"GDefine a constant instead of duplicating this literal "Shield" 3 times.(î´€¾8ı¥Œ÷¿1
-G	java:S106"+Replace this use of System.out by a logger.(ƒŸ™8¶®÷¿1
-L	java:S106"+Replace this use of System.out by a logger.(ˆ¬Æıÿÿÿÿ8Ûş€÷¿1
+G	java:S106	"+Replace this use of System.out by a logger.(ßìò†8İ©ÿø¿1
+N
+java:S1128"1Remove this unused import 'edu.undef.fie.domain'.(¸º•Ó8İ©ÿø¿1
+M
+java:S1128"0Remove this unused import 'java.util.ArrayList'.(÷‰îƒ8İ©ÿø¿1

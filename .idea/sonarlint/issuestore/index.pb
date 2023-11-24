@@ -33,3 +33,7 @@ b
 2src/main/java/edu/undef/fie/domain/WeaponItem.java,6/8/684eaf229d1b8dfe232e62d21e04d97347a92613
 9
 	README.md,8/e/8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+N
+src/test/java/RolGameTest.java,e/a/eaf46eb4628f55d4fae8e3be5ce6ee36ed342460
+O
+src/test/java/RoleGameTest.java,9/2/9271cb3698703568522475b92b59e9c0383ce1fc
